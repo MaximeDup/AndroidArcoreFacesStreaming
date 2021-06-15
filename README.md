@@ -7,7 +7,7 @@ Following 64 bytes are the coefficient of a 4x4 Matrix (16floats) representing t
 Built with Android Studio 4.2.1
 
 Thread:
-https://forums.unrealengine.com/t/face-capture-with-android-metahuman-download-links-free-open-source-demo/234927/5
+https://forums.unrealengine.com/t/face-capture-with-android-metahuman-download-links-free-open-source-demo/234927
 
 ![alt text](https://i.imgur.com/T9EV1fr.png)
 
